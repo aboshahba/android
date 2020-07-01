@@ -9,9 +9,7 @@ See more at [www.cSploit.org](http://www.csploit.org).
 
 ## Features
 
-* Map your local network
-* Fingerprint hosts' operating systems and open ports
-* Add your own hosts outside the local network
+*
 * Integrated traceroute
 * **Integrated [Metasploit](https://www.metasploit.com/) framework RPCd**
   * Search hosts for **known vulnerabilities** via integrated Metasploit daemon
